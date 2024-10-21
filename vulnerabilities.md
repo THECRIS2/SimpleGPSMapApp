@@ -1,4 +1,4 @@
-#Reporte de vulnerabilidades
+# Reporte de vulnerabilidades
 
 ## Resumen
 - Vulnerabilidades encontradas en total:
