@@ -3,13 +3,19 @@
 Este proyecto es una aplicación Android que implementa medidas de seguridad para proteger
 contra vulnerabilidades comunes.
 ## Vulnerabilidades Identificadas
-- Inyección SQL
-- Comunicación no segura
-- Exposición de datos sensibles
+- Certificado de depuracion
+- Vulnerable a la vulnerabilidad Janus
+- Aplicacion que usa una version obsoleta de android
+- Depuracion habilitada para la app
+- Se pueden realizar copias de seguridad no autorizadas
+- Verificacion del nivel de proteccion del permiso
 ## Mejoras Implementadas
-- Cifrado de datos sensibles
-- Comunicación segura (HTTPS)
-- Validación y sanitización de entradas
+- Desactivacion de depuracion
+- Eliminar vulnerabilidad Janus
+- Actualizacion sdk para admitir de android 10+
+- Solo poder realizar copias de seguridad por personal autorizado
+- Eliminar certificado de depuracion
+- Nivel de proteccion del permiso del gps adecuado
 ## Documentación
 - [Vulnerabilidades](vulnerabilities.md)
 - [Best Practices](best_practices.md)
