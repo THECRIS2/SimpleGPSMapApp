@@ -13,10 +13,8 @@ El objetivo de este programa es establecer un enfoque sistemático para identifi
 ### 2.2 Planificación de Mejoras
 - Cada vulnerabilidad será priorizada en base a su severidad y el impacto potencial en la seguridad.
 - Establecer tiempos de resolución para cada vulnerabilidad: 
-  - **Crítica:** 24 horas.
   - **Alta:** 7 días.
   - **Media:** 30 días.
-  - **Baja:** 60 días.
 - Definir los responsables de la implementación de las mejoras en el código.
 
 ### 2.3 Implementación de Mejoras
