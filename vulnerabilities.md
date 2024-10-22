@@ -9,5 +9,5 @@
 
 ## Detalles de las vulnerabilidades
 ### 1. Solicitud firmada con certificado de depuración
--**Descripcion:**Aplicación firmada con certificado de depuración. La aplicación de producción no debe enviarse con un certificado de           depuración
- -**Severidad:** Alta
+- **Descripcion:**
+- 
