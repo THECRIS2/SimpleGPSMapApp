@@ -12,7 +12,9 @@
 - **Descripcion:** Aplicación firmada con certificado de depuración. La aplicación de producción no debe enviarse con un certificado de depuración.
 - **Gravedad:** Alta
 - **Impacto:** Los certificados de depuración no deben utilizarse en aplicaciones de producción porque están diseñados para uso en desarrollo. Un atacante podría explotar esta vulnerabilidad para inyectar código malicioso o modificar la aplicación. 
-- **Pasos de reproduccion:**
+- **Pasos de reproduccion:** 1. Instalar la aplicación en un dispositivo o emulador.
+2. Navegar a la configuración del dispositivo y habilitar las opciones de desarrollador.
+3. Verificar la firma de la aplicación mediante un comando como apksigner verify --verbose --print-certs app.apk.
 - **Correcciones:**
 
 ### 2. Aplicación vulnerable a la vulnerabilidad Janus
