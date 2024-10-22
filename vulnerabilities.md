@@ -11,7 +11,7 @@
 ### 1. Solicitud firmada con certificado de depuración
 - **Descripcion:** Aplicación firmada con certificado de depuración. La aplicación de producción no debe enviarse con un certificado de depuración.
 - **Gravedad:** Alta
-- **Impacto:**
+- **Impacto:** Los certificados de depuración no deben utilizarse en aplicaciones de producción porque están diseñados para uso en desarrollo. Un atacante podría explotar esta vulnerabilidad para inyectar código malicioso o modificar la aplicación. 
 - **Pasos de reproduccion:**
 - **Correcciones:**
 
