@@ -27,4 +27,4 @@ contra vulnerabilidades comunes.
 3. Ejecutar la aplicación en un dispositivo o emulador
 4. Asegurarse de que los permisos necesarios están configurados
 ## Reporte de Vulnerabilidades El reporte detallado de las pruebas de vulnerabilidad
-EL informe de las vulnerabilidades encontradas se encuentra en el archivo `vulnerability_report.pdf`.
+El informe de las vulnerabilidades encontradas se encuentra en el archivo `vulnerability_report.pdf`.
